@@ -13,3 +13,10 @@ git pull --rebase origin feature/test
 然后提交分支2代码到对应的远程分支2上；
 查看此刻分支2上面是否包含之前分支1提交的那部分代码信息
 
+分支创建命令：
+git checkout -b feature/test
+git checkout -b feature/task01
+git checkout -b feature/task02
+git checkout -b feature/task03
+
+
